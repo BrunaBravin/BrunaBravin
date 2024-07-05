@@ -2,9 +2,9 @@
 
 ### :relaxed: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp; :✍️: &nbsp;Sou formada em Análise e Desenvolvimento de Sistemas e possuo formação nível técnico em Administração.\
-&nbsp;&nbsp;&nbsp;:speech_balloon: &nbsp;Fluente em inglês no nível C1, certificada através do teste de proficiência TOEIC.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Atualmente estou focando meus estudos em ASP.NET.
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Sou formada em Análise e Desenvolvimento de Sistemas e possuo formação nível técnico em Administração.\
+&nbsp;&nbsp;&nbsp;💬 &nbsp;Fluente em inglês no nível C1, certificada através do teste de proficiência TOEIC.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Atualmente estou focando meus estudos em ASP.NET.
 
 <hr/>
 <H3>Atualmente, possuo experiência prática em diversas tecnologias:</H3>
