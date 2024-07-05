@@ -16,7 +16,7 @@
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> </a>                                                     </p>
 <hr/>
 
-### Se interessou pelo meu trabalho? <a href="brunabravin.github.io/" target="_blank" rel="noreferrer">Visite meu Portfólio!</a>
+### Se interessou pelo meu trabalho? <a href="https://brunabravin.github.io/" target="_blank" rel="noreferrer">Visite meu Portfólio!</a>
 
 ## Contato
 <a href="https://www.linkedin.com/in/brunabravin099/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
